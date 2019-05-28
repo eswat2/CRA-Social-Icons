@@ -1,1 +1,3 @@
 # CRA-Social-Icons
+
+demonstration of importing SVG icons from Material.io design resources and making them available as components which can be styled...
