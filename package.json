@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "demonstration of importing SVG icons from Material.io design resources and making them available as components which can be styled...",
   "keywords": [],
-  "homepage": "https://eswat2.github.io/cra-social-icons",
+  "homepage": "https://eswat2.github.io/CRA-Social-Icons",
   "main": "src/index.js",
   "dependencies": {
     "react": "16.8.6",
