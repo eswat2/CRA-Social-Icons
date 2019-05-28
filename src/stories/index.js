@@ -2,7 +2,15 @@ import React from 'react';
 import styled from 'styled-components'
 
 import { storiesOf } from '@storybook/react';
-import { FillPicker, FillWrapper, IconProofs, SocialIcons, WhatsHotIcon } from '../components'
+import {
+  FillPicker,
+  FillWrapper,
+  IconProofs,
+  RadioButtonCheckedIcon,
+  SocialIcons,
+  ToggleIcons,
+  WhatsHotIcon
+} from '../components'
 import { colors } from '../utils'
 
 const StyledHot = styled(WhatsHotIcon)`
@@ -34,3 +42,8 @@ storiesOf('SocialIcons', module)
       <StyledProofs label="SocialIcons" iconCollection={SocialIcons} />
     </FillPicker>
   ))
+
+storiesOf('ToggleIcons', module)
+  .add('simple radio', () => <RadioButtonCheckedIcon />)
+  .add('icon collection', () => <NavyProofs label="ToggleIcons" iconCollection={ToggleIcons} />)
+
