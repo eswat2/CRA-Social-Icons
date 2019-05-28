@@ -6,7 +6,8 @@ import { ReactComponent as RadioButtonUncheckedIcon } from "./ic_radio_button_un
 import { ReactComponent as StarIcon } from "./ic_star_24px.svg";
 import { ReactComponent as StarBorderIcon } from "./ic_star_border_24px.svg";
 import { ReactComponent as StarHalfIcon } from "./ic_star_half_24px.svg";
-
+import { ReactComponent as ToggleOffIcon } from "./baseline-toggle_off-24px.svg";
+import { ReactComponent as ToggleOnIcon } from "./baseline-toggle_on-24px.svg";
 
 const ToggleIcons = {
   CheckBoxIcon,
@@ -16,7 +17,9 @@ const ToggleIcons = {
   RadioButtonUncheckedIcon,
   StarIcon,
   StarBorderIcon,
-  StarHalfIcon
+  StarHalfIcon,
+  ToggleOffIcon,
+  ToggleOnIcon
 }
 
 export {
@@ -28,5 +31,7 @@ export {
   RadioButtonUncheckedIcon,
   StarIcon,
   StarBorderIcon,
-  StarHalfIcon
+  StarHalfIcon,
+  ToggleOffIcon,
+  ToggleOnIcon
 }

@@ -7,6 +7,7 @@ import {
   FillWrapper,
   IconProofs,
   RadioButtonCheckedIcon,
+  RadioButtonUncheckedIcon,
   SocialIcons,
   ToggleIcons,
   WhatsHotIcon
@@ -44,6 +45,7 @@ storiesOf('SocialIcons', module)
   ))
 
 storiesOf('ToggleIcons', module)
-  .add('simple radio', () => <RadioButtonCheckedIcon />)
+  .add('radio checked', () => <RadioButtonCheckedIcon />)
+  .add('radio unchecked', () => <RadioButtonUncheckedIcon />)
   .add('icon collection', () => <NavyProofs label="ToggleIcons" iconCollection={ToggleIcons} />)
 
