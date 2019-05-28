@@ -5,8 +5,8 @@
 3. deploy the app to gh-pages:  [CRA-Social-Icons][app]
 4. you can also find this implemention on [CodeSandbox][app-io]
 
-[![Deployed][deployed-png]][deployed-png]
-[![Storybook][storybook-png]][storybook-png]
+[![Deployed][deployed-thumb]][deployed-png]
+[![Storybook][storybook-thumb]][storybook-png]
 
 
 
@@ -14,3 +14,5 @@
 [app-io]: https://codesandbox.io/s/beautiful-pine-luosw
 [deployed-png]: images/Deployed.png
 [storybook-png]: images/Storybook.png
+[deployed-thumb]: images/thumb-Deployed.png
+[storybook-thumb]: images/thumb-Storybook.png
