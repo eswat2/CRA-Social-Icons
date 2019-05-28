@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import styled from "styled-components";
-import { IconProofs, SocialIcons, WhatsHotIcon } from "./components";
+import { FillPicker, IconProofs, SocialIcons, WhatsHotIcon } from "./components";
 
 // NOTE: colors selected from clrs.cc
 const AppContainer = styled.div`
@@ -24,7 +24,9 @@ const icons = { ...SocialIcons, "WhatsHotIcon (Red)": StyledHot }
 function App() {
   return (
     <AppContainer>
-      <IconProofs label="SocialIcon" iconCollection={icons} />
+      <FillPicker>
+        <IconProofs label="SocialIcon" iconCollection={icons} />
+      </FillPicker>
     </AppContainer>
   );
 }

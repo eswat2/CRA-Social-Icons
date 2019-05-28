@@ -2,13 +2,19 @@ import React from 'react';
 import styled from 'styled-components'
 
 import { storiesOf } from '@storybook/react';
-import { IconProofs, SocialIcons, WhatsHotIcon } from '../components'
+import { FillPicker, FillWrapper, IconProofs, SocialIcons, WhatsHotIcon } from '../components'
+import { colors } from '../utils'
 
 const StyledHot = styled(WhatsHotIcon)`
-  fill: #ff0000;
+  fill: #FF4136;
 `
 
 const StyledProofs = styled(IconProofs)`
+  font-family: sans-serif;
+  color: #001f3f;
+`
+
+const NavyProofs = styled(IconProofs)`
   font-family: sans-serif;
   color: #001f3f;
   fill: #001f3f;
@@ -17,4 +23,14 @@ const StyledProofs = styled(IconProofs)`
 storiesOf('SocialIcons', module)
   .add('single icon', () => <WhatsHotIcon />)
   .add('styled icon', () => <StyledHot />)
-  .add('icon collection', () => <StyledProofs label="SocialIcons" iconCollection={SocialIcons} />)
+  .add('icon collection', () => <NavyProofs label="SocialIcons" iconCollection={SocialIcons} />)
+  .add('red collection', () => (
+    <FillWrapper fill={colors.red}>
+      <StyledProofs label="SocialIcons" iconCollection={SocialIcons} />
+    </FillWrapper>
+  ))
+  .add('fill picker', () => (
+    <FillPicker>
+      <StyledProofs label="SocialIcons" iconCollection={SocialIcons} />
+    </FillPicker>
+  ))
