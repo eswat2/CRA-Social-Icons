@@ -1,10 +1,10 @@
 import React from 'react'
 import { FillWrapper, RadioBtn } from '.'
 
-const ColorRadioBtn = ({className, handleClick, value, currentValue}) => {
+const ColorRadioBtn = ({className, handleClick, color, currentValue}) => {
   return (
-    <FillWrapper fill={value}>
-      <RadioBtn className={className} handleClick={handleClick} value={value} currentValue={currentValue} />
+    <FillWrapper fill={color.value} title={color.name}>
+      <RadioBtn className={className} handleClick={handleClick} value={color.value} currentValue={currentValue} />
     </FillWrapper>
   )
 }

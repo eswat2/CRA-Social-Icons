@@ -11,7 +11,7 @@ const ColorGroup = ({ className, colors, handleClick, currentValue }) => {
   return (
     <Wrapper className={className}>
       { colors.map((color) => {
-        return <ColorRadioBtn handleClick={handleClick} value={color} currentValue={currentValue} />
+        return <ColorRadioBtn handleClick={handleClick} color={color} currentValue={currentValue} />
       })}
     </Wrapper>
   )

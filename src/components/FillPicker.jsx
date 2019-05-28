@@ -6,8 +6,8 @@ import { FillWrapper, ColorGroup } from './'
 const Wrapper = styled.div``
 
 const keys = Object.keys(colors)
-const colorValues = keys.map((key) => { return colors[key] })
-const defaultFill = colorValues[0]
+const colorValues = keys.map((key) => { return { name: key, value: colors[key] }})
+const defaultFill = colorValues[0].value
 
 const FillPicker = ({ className, children }) => {
   const [ fill, setFill ] = React.useState(defaultFill)
