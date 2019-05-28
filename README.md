@@ -7,14 +7,14 @@
 
 ### Snapshots
 
-- [![Deployed][deployed-thumb]][deployed-png]
-- [![Storybook][storybook-thumb]][storybook-png]
+- [![Deployed][thumb-deployed]][img-deployed]
+- [![Storybook][thumb-storybook]][img-storybook]
 
 
 
 [app]: https://eswat2.github.io/CRA-Social-Icons
 [app-io]: https://codesandbox.io/s/beautiful-pine-luosw
-[deployed-png]: images/Deployed.png
-[storybook-png]: images/Storybook.png
-[deployed-thumb]: images/thumb-Deployed.png
-[storybook-thumb]: images/thumb-Storybook.png
+[img-deployed]: https://eswat2.github.io/CRA-Social-Icons/images/Deployed.png
+[img-storybook]: https://eswat2.github.io/CRA-Social-Icons/images/Storybook.png
+[thumb-deployed]: images/thumb-Deployed.png
+[thumb-storybook]: images/thumb-Storybook.png
