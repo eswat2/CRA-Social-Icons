@@ -5,8 +5,10 @@
 3. deploy the app to gh-pages:  [CRA-Social-Icons][app]
 4. you can also find this implemention on [CodeSandbox][app-io]
 
-[![Deployed][deployed-thumb]][deployed-png]
-[![Storybook][storybook-thumb]][storybook-png]
+### Snapshots
+
+- [![Deployed][deployed-thumb]][deployed-png]
+- [![Storybook][storybook-thumb]][storybook-png]
 
 
 
