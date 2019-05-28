@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "440a744e57803a547f508dfb135876ad",
+    "revision": "d96f960895e2f9b51cc6a3f1e89a2e4a",
     "url": "/CRA-Social-Icons/index.html"
   },
   {
-    "revision": "926bc4455f58fc9cb573",
-    "url": "/CRA-Social-Icons/static/js/2.8fc6a8f6.chunk.js"
+    "revision": "8e4340dad290d97d5430",
+    "url": "/CRA-Social-Icons/static/js/2.12cada0e.chunk.js"
   },
   {
-    "revision": "f3082696ad9ba119af9d",
-    "url": "/CRA-Social-Icons/static/js/main.0c9036b7.chunk.js"
+    "revision": "34f23c22560e8e893524",
+    "url": "/CRA-Social-Icons/static/js/main.676d2f3e.chunk.js"
   },
   {
     "revision": "4302661b7e27b9a1d42f",
@@ -18,6 +18,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c48b242bb4c6b6ec7b1120d04f0db349",
     "url": "/CRA-Social-Icons/static/media/ic_cake_24px.c48b242b.svg"
+  },
+  {
+    "revision": "c74f4c50d7245f286115a0ee714e4e56",
+    "url": "/CRA-Social-Icons/static/media/ic_check_box_24px.c74f4c50.svg"
+  },
+  {
+    "revision": "210d6250d2f948e49c04cfafe2ce55dd",
+    "url": "/CRA-Social-Icons/static/media/ic_check_box_outline_blank_24px.210d6250.svg"
   },
   {
     "revision": "8aad7b0d10aa0b5205ba1100af297194",
@@ -30,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a0cd311372c007ce6dd505c164d17d20",
     "url": "/CRA-Social-Icons/static/media/ic_group_add_24px.a0cd3113.svg"
+  },
+  {
+    "revision": "479d3aa8e182b7157a7ee1f7daedde39",
+    "url": "/CRA-Social-Icons/static/media/ic_indeterminate_check_box_24px.479d3aa8.svg"
   },
   {
     "revision": "ab2a3b71506ee487969a43d6df4f8262",
@@ -104,6 +116,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CRA-Social-Icons/static/media/ic_public_24px.7cc5c9b8.svg"
   },
   {
+    "revision": "95123eaed17136781cb7117ed527b216",
+    "url": "/CRA-Social-Icons/static/media/ic_radio_button_checked_24px.95123eae.svg"
+  },
+  {
+    "revision": "fdf43ab866c6e6e4ae2052f82fcf1af2",
+    "url": "/CRA-Social-Icons/static/media/ic_radio_button_unchecked_24px.fdf43ab8.svg"
+  },
+  {
     "revision": "96e26861794dbeb8fa6ce234ba6c2dd7",
     "url": "/CRA-Social-Icons/static/media/ic_school_24px.96e26861.svg"
   },
@@ -130,6 +150,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a4d12ac23828b47725251cb596e9dd3b",
     "url": "/CRA-Social-Icons/static/media/ic_share_24px.a4d12ac2.svg"
+  },
+  {
+    "revision": "6601129b4710da129ddc0afd498c81ab",
+    "url": "/CRA-Social-Icons/static/media/ic_star_24px.6601129b.svg"
+  },
+  {
+    "revision": "d2bb90dc50734fb9c028fde0c8c0888e",
+    "url": "/CRA-Social-Icons/static/media/ic_star_border_24px.d2bb90dc.svg"
+  },
+  {
+    "revision": "52f41b328b887331e29035bd6b99864a",
+    "url": "/CRA-Social-Icons/static/media/ic_star_half_24px.52f41b32.svg"
   },
   {
     "revision": "deb7c8d7ee6a167c5a7a11b71ea9120f",
