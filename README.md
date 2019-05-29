@@ -10,13 +10,13 @@
 
 ### References
 
-- [clrs.cc][clrs-cc] - _A nicer color palette for the web._
+- [clrs.cc][clrs-cc] - _A nicer color palette for the web_
 - [Icons][material-icons] - _Material Design tools_
 - [material.io][material-io] - _Material Design_
 - [material-design-icons][material-github] - _Google on GitHub_
 - [Material Design Icons][mdi] - _Community-led Iconography_
 - [Storybook][story-js] - _UI component explorer for frontend developers_
-- [Styled Components][styled-eh] - _Visual primitives for the component age._
+- [Styled Components][styled-eh] - _Visual primitives for the component age_
 
 
 ### Snapshots
