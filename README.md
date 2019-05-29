@@ -7,14 +7,26 @@
 
 ### Snapshots
 
-- [![Deployed][thumb-deployed]][img-deployed]
-- [![Storybook][thumb-storybook]][img-storybook]
+- [![navy][thumb-navy]][img-navy]
+- [![purple][thumb-purple]][img-purple]
+- [![social][thumb-social]][img-social]
+- [![red][thumb-red]][img-red]
+- [![picker][thumb-picker]][img-picker]
+- [![toggle][thumb-toggle]][img-toggle]
 
 
 
 [app]: https://eswat2.github.io/CRA-Social-Icons
 [app-io]: https://codesandbox.io/s/beautiful-pine-luosw
-[img-deployed]: https://eswat2.github.io/CRA-Social-Icons/images/Deployed.png
-[img-storybook]: https://eswat2.github.io/CRA-Social-Icons/images/Storybook.png
-[thumb-deployed]: images/thumb-Deployed.png
-[thumb-storybook]: images/thumb-Storybook.png
+[img-navy]: https://eswat2.github.io/CRA-Social-Icons/images/deployed-navy.png
+[img-purple]: https://eswat2.github.io/CRA-Social-Icons/images/deployed-purple.png
+[img-social]: https://eswat2.github.io/CRA-Social-Icons/images/story-social-icons.png
+[img-red]: https://eswat2.github.io/CRA-Social-Icons/images/story-red-icons.png
+[img-picker]: https://eswat2.github.io/CRA-Social-Icons/images/story-fill-picker.png
+[img-toggle]: https://eswat2.github.io/CRA-Social-Icons/images/story-toggle-icons.png
+[thumb-toggle]: images/thumb-toggle-icons.png
+[thumb-social]: images/thumb-social-icons.png
+[thumb-red]: images/thumb-red-icons.png
+[thumb-picker]: images/thumb-fill-picker.png
+[thumb-navy]: images/thumb-deployed-navy.png
+[thumb-purple]: images/thumb-deployed-purple.png
