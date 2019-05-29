@@ -5,8 +5,8 @@
 3. deploy the app to gh-pages:  [CRA-Social-Icons][app].
 4. you can also find this implemention on [CodeSandbox][app-io].
 5. **UPDATE** - _implemented a simple color picker to demonstrate how you can change the fill color for a group of icons with styled-components..._
-  - using toggle/radio SVG icons from material.io
-  - using colors from clrs.cc
+	- using toggle/radio SVG icons from material.io
+	- using colors from clrs.cc
 
 ### References
 
