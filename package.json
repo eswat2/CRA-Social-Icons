@@ -14,9 +14,9 @@
   "devDependencies": {
     "gh-pages": "2.1.1",
     "typescript": "3.5.3",
-    "@storybook/react": "5.1.10",
-    "@storybook/addon-actions": "5.1.10",
-    "@storybook/addon-links": "5.1.10"
+    "@storybook/react": "5.1.11",
+    "@storybook/addon-actions": "5.1.11",
+    "@storybook/addon-links": "5.1.11"
   },
   "scripts": {
     "start": "react-scripts start",
