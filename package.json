@@ -16,9 +16,9 @@
     "@storybook/addon-links": "5.2.1",
     "@storybook/react": "5.2.1",
     "gh-pages": "2.1.1",
-    "progress-bar-webpack-plugin": "^1.12.1",
+    "progress-bar-webpack-plugin": "1.12.1",
     "typescript": "3.6.3",
-    "webpack-bundle-analyzer": "^3.5.1"
+    "webpack-bundle-analyzer": "3.5.2"
   },
   "scripts": {
     "start": "react-scripts start",
