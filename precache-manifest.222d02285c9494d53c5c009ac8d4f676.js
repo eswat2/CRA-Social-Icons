@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5accfdbebe947eae53c07ab090b3ec03",
+    "revision": "a798172d513fc16ac61a96651c21e1ef",
     "url": "/CRA-Social-Icons/index.html"
   },
   {
-    "revision": "985fdcd305615d6f7389",
-    "url": "/CRA-Social-Icons/static/js/2.6fff7fcd.chunk.js"
+    "revision": "5e0bcf4dc05c1dc31363",
+    "url": "/CRA-Social-Icons/static/js/2.4a76fbd7.chunk.js"
   },
   {
     "revision": "d2ec5a75c1645ec45f02",

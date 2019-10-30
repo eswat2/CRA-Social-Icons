@@ -4,10 +4,10 @@
     "main.js.map": "/CRA-Social-Icons/static/js/main.5d0984ec.chunk.js.map",
     "runtime-main.js": "/CRA-Social-Icons/static/js/runtime-main.51555e06.js",
     "runtime-main.js.map": "/CRA-Social-Icons/static/js/runtime-main.51555e06.js.map",
-    "static/js/2.6fff7fcd.chunk.js": "/CRA-Social-Icons/static/js/2.6fff7fcd.chunk.js",
-    "static/js/2.6fff7fcd.chunk.js.map": "/CRA-Social-Icons/static/js/2.6fff7fcd.chunk.js.map",
+    "static/js/2.4a76fbd7.chunk.js": "/CRA-Social-Icons/static/js/2.4a76fbd7.chunk.js",
+    "static/js/2.4a76fbd7.chunk.js.map": "/CRA-Social-Icons/static/js/2.4a76fbd7.chunk.js.map",
     "index.html": "/CRA-Social-Icons/index.html",
-    "precache-manifest.1c01c79eda81fc0da038dbbab6f14b8e.js": "/CRA-Social-Icons/precache-manifest.1c01c79eda81fc0da038dbbab6f14b8e.js",
+    "precache-manifest.222d02285c9494d53c5c009ac8d4f676.js": "/CRA-Social-Icons/precache-manifest.222d02285c9494d53c5c009ac8d4f676.js",
     "service-worker.js": "/CRA-Social-Icons/service-worker.js",
     "static/media/baseline-toggle_off-24px.008d5f32.svg": "/CRA-Social-Icons/static/media/baseline-toggle_off-24px.008d5f32.svg",
     "static/media/baseline-toggle_on-24px.810776a3.svg": "/CRA-Social-Icons/static/media/baseline-toggle_on-24px.810776a3.svg",
@@ -52,7 +52,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.51555e06.js",
-    "static/js/2.6fff7fcd.chunk.js",
+    "static/js/2.4a76fbd7.chunk.js",
     "static/js/main.5d0984ec.chunk.js"
   ]
 }
