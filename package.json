@@ -28,7 +28,8 @@
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build --git git",
     "storybook": "start-storybook -p 9009 -s public",
-    "build-storybook": "build-storybook -s public"
+    "build-storybook": "build-storybook -s public",
+    "open": "open https://eswat2.github.io/CRA-Social-Icons"
   },
   "browserslist": [
     ">0.2%",
