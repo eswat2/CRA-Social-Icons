@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.js": "/CRA-Social-Icons/static/js/main.5d0984ec.chunk.js",
-    "main.js.map": "/CRA-Social-Icons/static/js/main.5d0984ec.chunk.js.map",
-    "runtime-main.js": "/CRA-Social-Icons/static/js/runtime-main.51555e06.js",
-    "runtime-main.js.map": "/CRA-Social-Icons/static/js/runtime-main.51555e06.js.map",
-    "static/js/2.e30d974e.chunk.js": "/CRA-Social-Icons/static/js/2.e30d974e.chunk.js",
-    "static/js/2.e30d974e.chunk.js.map": "/CRA-Social-Icons/static/js/2.e30d974e.chunk.js.map",
+    "main.js": "/CRA-Social-Icons/static/js/main.e547287a.chunk.js",
+    "main.js.map": "/CRA-Social-Icons/static/js/main.e547287a.chunk.js.map",
+    "runtime-main.js": "/CRA-Social-Icons/static/js/runtime-main.d3034321.js",
+    "runtime-main.js.map": "/CRA-Social-Icons/static/js/runtime-main.d3034321.js.map",
+    "static/js/2.ee081608.chunk.js": "/CRA-Social-Icons/static/js/2.ee081608.chunk.js",
+    "static/js/2.ee081608.chunk.js.map": "/CRA-Social-Icons/static/js/2.ee081608.chunk.js.map",
     "index.html": "/CRA-Social-Icons/index.html",
-    "precache-manifest.7c56316804cbb9624eae060ffae8484b.js": "/CRA-Social-Icons/precache-manifest.7c56316804cbb9624eae060ffae8484b.js",
+    "precache-manifest.d1af7a0d31c9a8aaf3f5ace557ea9543.js": "/CRA-Social-Icons/precache-manifest.d1af7a0d31c9a8aaf3f5ace557ea9543.js",
     "service-worker.js": "/CRA-Social-Icons/service-worker.js",
+    "static/js/2.ee081608.chunk.js.LICENSE": "/CRA-Social-Icons/static/js/2.ee081608.chunk.js.LICENSE",
     "static/media/baseline-toggle_off-24px.008d5f32.svg": "/CRA-Social-Icons/static/media/baseline-toggle_off-24px.008d5f32.svg",
     "static/media/baseline-toggle_on-24px.810776a3.svg": "/CRA-Social-Icons/static/media/baseline-toggle_on-24px.810776a3.svg",
     "static/media/ic_cake_24px.c48b242b.svg": "/CRA-Social-Icons/static/media/ic_cake_24px.c48b242b.svg",
@@ -51,8 +52,8 @@
     "static/media/ic_whatshot_24px.deb7c8d7.svg": "/CRA-Social-Icons/static/media/ic_whatshot_24px.deb7c8d7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.51555e06.js",
-    "static/js/2.e30d974e.chunk.js",
-    "static/js/main.5d0984ec.chunk.js"
+    "static/js/runtime-main.d3034321.js",
+    "static/js/2.ee081608.chunk.js",
+    "static/js/main.e547287a.chunk.js"
   ]
 }
