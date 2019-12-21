@@ -17,7 +17,7 @@
     "@storybook/react": "5.2.8",
     "gh-pages": "2.1.1",
     "progress-bar-webpack-plugin": "1.12.1",
-    "typescript": "3.7.3",
+    "typescript": "3.7.4",
     "webpack-bundle-analyzer": "3.6.0"
   },
   "scripts": {
