@@ -12,9 +12,9 @@
     "styled-components": "5.0.0"
   },
   "devDependencies": {
-    "@storybook/addon-actions": "5.3.8",
-    "@storybook/addon-links": "5.3.8",
-    "@storybook/react": "5.3.8",
+    "@storybook/addon-actions": "5.3.9",
+    "@storybook/addon-links": "5.3.9",
+    "@storybook/react": "5.3.9",
     "gh-pages": "2.2.0",
     "progress-bar-webpack-plugin": "2.1.0",
     "typescript": "3.7.5",
