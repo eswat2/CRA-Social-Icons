@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/CRA-Social-Icons/static/js/main.8fa1e180.chunk.js",
-    "main.js.map": "/CRA-Social-Icons/static/js/main.8fa1e180.chunk.js.map",
-    "runtime-main.js": "/CRA-Social-Icons/static/js/runtime-main.f786b975.js",
-    "runtime-main.js.map": "/CRA-Social-Icons/static/js/runtime-main.f786b975.js.map",
-    "static/js/2.aede6cfb.chunk.js": "/CRA-Social-Icons/static/js/2.aede6cfb.chunk.js",
-    "static/js/2.aede6cfb.chunk.js.map": "/CRA-Social-Icons/static/js/2.aede6cfb.chunk.js.map",
+    "main.js": "/CRA-Social-Icons/static/js/main.168f94e2.chunk.js",
+    "main.js.map": "/CRA-Social-Icons/static/js/main.168f94e2.chunk.js.map",
+    "runtime-main.js": "/CRA-Social-Icons/static/js/runtime-main.0b8519fd.js",
+    "runtime-main.js.map": "/CRA-Social-Icons/static/js/runtime-main.0b8519fd.js.map",
+    "static/js/2.d3f75090.chunk.js": "/CRA-Social-Icons/static/js/2.d3f75090.chunk.js",
+    "static/js/2.d3f75090.chunk.js.map": "/CRA-Social-Icons/static/js/2.d3f75090.chunk.js.map",
     "index.html": "/CRA-Social-Icons/index.html",
-    "precache-manifest.2ccb92e80415fc900f306aad47d6544d.js": "/CRA-Social-Icons/precache-manifest.2ccb92e80415fc900f306aad47d6544d.js",
+    "precache-manifest.bde7abb0c42f4066614b90253bf392c3.js": "/CRA-Social-Icons/precache-manifest.bde7abb0c42f4066614b90253bf392c3.js",
     "service-worker.js": "/CRA-Social-Icons/service-worker.js",
-    "static/js/2.aede6cfb.chunk.js.LICENSE.txt": "/CRA-Social-Icons/static/js/2.aede6cfb.chunk.js.LICENSE.txt",
+    "static/js/2.d3f75090.chunk.js.LICENSE.txt": "/CRA-Social-Icons/static/js/2.d3f75090.chunk.js.LICENSE.txt",
     "static/media/baseline-toggle_off-24px.008d5f32.svg": "/CRA-Social-Icons/static/media/baseline-toggle_off-24px.008d5f32.svg",
     "static/media/baseline-toggle_on-24px.810776a3.svg": "/CRA-Social-Icons/static/media/baseline-toggle_on-24px.810776a3.svg",
     "static/media/ic_cake_24px.c48b242b.svg": "/CRA-Social-Icons/static/media/ic_cake_24px.c48b242b.svg",
@@ -52,8 +52,8 @@
     "static/media/ic_whatshot_24px.deb7c8d7.svg": "/CRA-Social-Icons/static/media/ic_whatshot_24px.deb7c8d7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f786b975.js",
-    "static/js/2.aede6cfb.chunk.js",
-    "static/js/main.8fa1e180.chunk.js"
+    "static/js/runtime-main.0b8519fd.js",
+    "static/js/2.d3f75090.chunk.js",
+    "static/js/main.168f94e2.chunk.js"
   ]
 }
