@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd4d7fb883f180e4904c7614c580ffcc",
+    "revision": "57772897211c06e64e1e55b58e1b78ca",
     "url": "/CRA-Social-Icons/index.html"
   },
   {
-    "revision": "6592501bd2f3def6ff45",
-    "url": "/CRA-Social-Icons/static/js/2.710483cc.chunk.js"
+    "revision": "a1b39c66c6a5e1e3dbde",
+    "url": "/CRA-Social-Icons/static/js/2.9dc6d7bf.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/CRA-Social-Icons/static/js/2.710483cc.chunk.js.LICENSE.txt"
+    "url": "/CRA-Social-Icons/static/js/2.9dc6d7bf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e494b13ea7f89a44af4d",
-    "url": "/CRA-Social-Icons/static/js/main.866bfc9c.chunk.js"
+    "revision": "8937ce8b84ba53cc4e91",
+    "url": "/CRA-Social-Icons/static/js/main.fb06b5dd.chunk.js"
   },
   {
-    "revision": "dbf5e87c41b4982be3b6",
-    "url": "/CRA-Social-Icons/static/js/runtime-main.2c95c504.js"
+    "revision": "693c05e151a0f0d006b8",
+    "url": "/CRA-Social-Icons/static/js/runtime-main.faf6f9e1.js"
   },
   {
     "revision": "008d5f3227b1bb97d16d08ad346fc1ac",
