@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/CRA-Social-Icons/precache-manifest.4d2136bd458d33d8dd7b9efc1713ba20.js"
+  "/CRA-Social-Icons/precache-manifest.26ec0910c20f5c0c87fc9a4e9e0e8698.js"
 );
 
 self.addEventListener('message', (event) => {

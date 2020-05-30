@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57772897211c06e64e1e55b58e1b78ca",
+    "revision": "6f58e380abc280e8179086159e01d02d",
     "url": "/CRA-Social-Icons/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CRA-Social-Icons/static/js/2.9dc6d7bf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8937ce8b84ba53cc4e91",
-    "url": "/CRA-Social-Icons/static/js/main.fb06b5dd.chunk.js"
+    "revision": "27152454cca9efdbca93",
+    "url": "/CRA-Social-Icons/static/js/main.9ae9085d.chunk.js"
   },
   {
     "revision": "693c05e151a0f0d006b8",
