@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/CRA-Social-Icons/static/js/main.bd1594aa.chunk.js",
-    "main.js.map": "/CRA-Social-Icons/static/js/main.bd1594aa.chunk.js.map",
+    "main.js": "/CRA-Social-Icons/static/js/main.d1533d3e.chunk.js",
+    "main.js.map": "/CRA-Social-Icons/static/js/main.d1533d3e.chunk.js.map",
     "runtime-main.js": "/CRA-Social-Icons/static/js/runtime-main.290833c2.js",
     "runtime-main.js.map": "/CRA-Social-Icons/static/js/runtime-main.290833c2.js.map",
     "static/js/2.98ec4ad5.chunk.js": "/CRA-Social-Icons/static/js/2.98ec4ad5.chunk.js",
@@ -52,6 +52,6 @@
   "entrypoints": [
     "static/js/runtime-main.290833c2.js",
     "static/js/2.98ec4ad5.chunk.js",
-    "static/js/main.bd1594aa.chunk.js"
+    "static/js/main.d1533d3e.chunk.js"
   ]
 }
