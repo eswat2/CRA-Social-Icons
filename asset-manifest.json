@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/CRA-Social-Icons/static/js/main.78fbe6ae.chunk.js",
-    "main.js.map": "/CRA-Social-Icons/static/js/main.78fbe6ae.chunk.js.map",
+    "main.js": "/CRA-Social-Icons/static/js/main.8cc29d98.chunk.js",
+    "main.js.map": "/CRA-Social-Icons/static/js/main.8cc29d98.chunk.js.map",
     "runtime-main.js": "/CRA-Social-Icons/static/js/runtime-main.080c0c6e.js",
     "runtime-main.js.map": "/CRA-Social-Icons/static/js/runtime-main.080c0c6e.js.map",
-    "static/js/2.95e6ec67.chunk.js": "/CRA-Social-Icons/static/js/2.95e6ec67.chunk.js",
-    "static/js/2.95e6ec67.chunk.js.map": "/CRA-Social-Icons/static/js/2.95e6ec67.chunk.js.map",
+    "static/js/2.2e49cce8.chunk.js": "/CRA-Social-Icons/static/js/2.2e49cce8.chunk.js",
+    "static/js/2.2e49cce8.chunk.js.map": "/CRA-Social-Icons/static/js/2.2e49cce8.chunk.js.map",
     "index.html": "/CRA-Social-Icons/index.html",
-    "static/js/2.95e6ec67.chunk.js.LICENSE.txt": "/CRA-Social-Icons/static/js/2.95e6ec67.chunk.js.LICENSE.txt",
+    "static/js/2.2e49cce8.chunk.js.LICENSE.txt": "/CRA-Social-Icons/static/js/2.2e49cce8.chunk.js.LICENSE.txt",
     "static/media/baseline-toggle_off-24px.692a0305.svg": "/CRA-Social-Icons/static/media/baseline-toggle_off-24px.692a0305.svg",
     "static/media/baseline-toggle_on-24px.8f2b8cdd.svg": "/CRA-Social-Icons/static/media/baseline-toggle_on-24px.8f2b8cdd.svg",
     "static/media/ic_cake_24px.a14352b9.svg": "/CRA-Social-Icons/static/media/ic_cake_24px.a14352b9.svg",
@@ -51,7 +51,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.080c0c6e.js",
-    "static/js/2.95e6ec67.chunk.js",
-    "static/js/main.78fbe6ae.chunk.js"
+    "static/js/2.2e49cce8.chunk.js",
+    "static/js/main.8cc29d98.chunk.js"
   ]
 }
