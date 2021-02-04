@@ -13,6 +13,7 @@
   },
   "devDependencies": {
     "@babel/core": "7.12.13",
+    "@babel/helper-define-map": "7.12.13",
     "@storybook/addon-actions": "6.1.17",
     "@storybook/addon-essentials": "6.1.17",
     "@storybook/addon-links": "6.1.17",
