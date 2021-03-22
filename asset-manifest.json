@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/CRA-Social-Icons/static/js/main.56a1d583.chunk.js",
-    "main.js.map": "/CRA-Social-Icons/static/js/main.56a1d583.chunk.js.map",
-    "runtime-main.js": "/CRA-Social-Icons/static/js/runtime-main.115d42f3.js",
-    "runtime-main.js.map": "/CRA-Social-Icons/static/js/runtime-main.115d42f3.js.map",
-    "static/js/2.c47bd839.chunk.js": "/CRA-Social-Icons/static/js/2.c47bd839.chunk.js",
-    "static/js/2.c47bd839.chunk.js.map": "/CRA-Social-Icons/static/js/2.c47bd839.chunk.js.map",
+    "main.js": "/CRA-Social-Icons/static/js/main.b1bc2ebb.chunk.js",
+    "main.js.map": "/CRA-Social-Icons/static/js/main.b1bc2ebb.chunk.js.map",
+    "runtime-main.js": "/CRA-Social-Icons/static/js/runtime-main.873dd5b4.js",
+    "runtime-main.js.map": "/CRA-Social-Icons/static/js/runtime-main.873dd5b4.js.map",
+    "static/js/2.0db62aed.chunk.js": "/CRA-Social-Icons/static/js/2.0db62aed.chunk.js",
+    "static/js/2.0db62aed.chunk.js.map": "/CRA-Social-Icons/static/js/2.0db62aed.chunk.js.map",
     "index.html": "/CRA-Social-Icons/index.html",
-    "static/js/2.c47bd839.chunk.js.LICENSE.txt": "/CRA-Social-Icons/static/js/2.c47bd839.chunk.js.LICENSE.txt",
+    "static/js/2.0db62aed.chunk.js.LICENSE.txt": "/CRA-Social-Icons/static/js/2.0db62aed.chunk.js.LICENSE.txt",
     "static/media/baseline-toggle_off-24px.692a0305.svg": "/CRA-Social-Icons/static/media/baseline-toggle_off-24px.692a0305.svg",
     "static/media/baseline-toggle_on-24px.8f2b8cdd.svg": "/CRA-Social-Icons/static/media/baseline-toggle_on-24px.8f2b8cdd.svg",
     "static/media/ic_cake_24px.a14352b9.svg": "/CRA-Social-Icons/static/media/ic_cake_24px.a14352b9.svg",
@@ -50,8 +50,8 @@
     "static/media/ic_whatshot_24px.aec9d6cb.svg": "/CRA-Social-Icons/static/media/ic_whatshot_24px.aec9d6cb.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.115d42f3.js",
-    "static/js/2.c47bd839.chunk.js",
-    "static/js/main.56a1d583.chunk.js"
+    "static/js/runtime-main.873dd5b4.js",
+    "static/js/2.0db62aed.chunk.js",
+    "static/js/main.b1bc2ebb.chunk.js"
   ]
 }
