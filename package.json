@@ -23,7 +23,7 @@
     "gh-pages": "3.2.1",
     "progress-bar-webpack-plugin": "2.1.0",
     "react-is": "17.0.2",
-    "typescript": "4.3.2",
+    "typescript": "4.3.3",
     "webpack-bundle-analyzer": "4.4.2"
   },
   "scripts": {
