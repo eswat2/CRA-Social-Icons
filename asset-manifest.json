@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/CRA-Social-Icons/static/js/main.8c3e1612.js",
+    "main.js": "/CRA-Social-Icons/static/js/main.ebc37d97.js",
     "static/media/ic_cake_24px.svg": "/CRA-Social-Icons/static/media/ic_cake_24px.a14352b9da7d7fba3f780e232d200d0e.svg",
     "static/media/ic_people_outline_24px.svg": "/CRA-Social-Icons/static/media/ic_people_outline_24px.b7f237a41452daf1484741ec52214f58.svg",
     "static/media/ic_sentiment_very_dissatisfied_24px.svg": "/CRA-Social-Icons/static/media/ic_sentiment_very_dissatisfied_24px.fb9f7be0f6cc6142875a8b854ac8126b.svg",
@@ -42,9 +42,9 @@
     "static/media/ic_check_box_outline_blank_24px.svg": "/CRA-Social-Icons/static/media/ic_check_box_outline_blank_24px.922fbfa0b23b80b2ecb534c182d793f5.svg",
     "static/media/ic_school_24px.svg": "/CRA-Social-Icons/static/media/ic_school_24px.3e7fab15f1d60f9efa70702d797fd9cd.svg",
     "static/media/ic_plus_one_24px.svg": "/CRA-Social-Icons/static/media/ic_plus_one_24px.39e04369ce4ac0340bce718d2ce02b8f.svg",
-    "main.8c3e1612.js.map": "/CRA-Social-Icons/static/js/main.8c3e1612.js.map"
+    "main.ebc37d97.js.map": "/CRA-Social-Icons/static/js/main.ebc37d97.js.map"
   },
   "entrypoints": [
-    "static/js/main.8c3e1612.js"
+    "static/js/main.ebc37d97.js"
   ]
 }
