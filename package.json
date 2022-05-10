@@ -20,7 +20,7 @@
     "@storybook/node-logger": "6.4.22",
     "@storybook/preset-create-react-app": "4.1.0",
     "@storybook/react": "6.4.22",
-    "gh-pages": "3.2.3",
+    "gh-pages": "4.0.0",
     "progress-bar-webpack-plugin": "2.1.0",
     "react-is": "18.1.0",
     "typescript": "4.6.4",
