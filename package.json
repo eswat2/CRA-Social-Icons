@@ -12,8 +12,8 @@
     "styled-components": "5.3.5"
   },
   "devDependencies": {
-    "@babel/core": "7.17.12",
-    "@babel/helper-define-map": "7.16.7",
+    "@babel/core": "7.18.0",
+    "@babel/helper-define-map": "7.18.0",
     "@storybook/addon-actions": "6.5.3",
     "@storybook/addon-essentials": "6.5.3",
     "@storybook/addon-links": "6.5.3",
